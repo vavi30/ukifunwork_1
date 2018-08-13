@@ -141,5 +141,5 @@ $('#start12').click(function(e) {
                     e.preventDefault();
                     sound.stop();
                   });
-    });
+  //  });
 });
