@@ -16,7 +16,7 @@ $('#start1').click(function(e) {
                   });
     });
 
-  $(document).ready(function() {
+
     SC.stream('/tracks/456435057',function(sound){
 $('#start2').click(function(e) {
            e.preventDefault();
@@ -137,5 +137,4 @@ $('#start12').click(function(e) {
                     sound.stop();
                   });
     });
-});
 });
