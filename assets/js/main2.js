@@ -79,3 +79,4 @@ $(document).ready(function() {
             });
     });
 }); // thalli pogathe
+});
